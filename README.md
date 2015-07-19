@@ -17,4 +17,5 @@ bonus pong feature -
 	
 - without hardMode: left and right boundaries obviously marked, rotation speed increases during volley and is reset after each point
 	
-- with hard mode: left and right boundaries not obviously marked, rotation speeds up until end of game toggle hard mode by pressing "h", may be toggled during gameplay
+- with hard mode: left and right boundaries not obviously marked, rotation speeds up until end of game 
+	toggle hard mode by pressing "h", may be toggled during gameplay
